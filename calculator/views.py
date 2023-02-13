@@ -13,7 +13,7 @@ import os
 import openai
 # Create your views here.
 import os
-OPENAI_API_KEY= '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'
+OPENAI_API_KEY= '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'
 
 def Merge(dict1, dict2):
     return(dict2.update(dict1))
